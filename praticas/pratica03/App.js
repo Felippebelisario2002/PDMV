@@ -1,11 +1,8 @@
-import ListScreen from "./screens/ListScreen";
-import GalleryScreen from "./screens/GalleryScreen.js"
-import HomeScreen from "./screens/HomeScreen";
-
+import RegistrarConta from "../../aulas/aula04/screens/RegistrarConta";
 
 
 function App() {
-  return <HomeScreen />;
+  return<GaleriaFotos/>
 }
 
 

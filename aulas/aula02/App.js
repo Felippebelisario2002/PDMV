@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Text, Button, StyleSheet } from "react-native";
 
 function Titulo(props) {
-  return <Text>{props.children}</Text>;
+  return <Text>{props.children}Felp</Text>;
 }
 
 function App() {

@@ -1,0 +1,6 @@
+{
+    "tarefas": [
+        {"id": "1a2b", "descricao": "Praticar programacao", "concluida": false},
+        {"id": "3c4d", "descricao": "Estudar React Native", "concluida":true}
+    ]
+}
